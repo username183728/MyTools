@@ -17,6 +17,8 @@ fullscreen = 0
 android.permissions = INTERNET,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,NEARBY_WIFI_DEVICES,CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,MANAGE_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES
 android.api = 34
 android.minapi = 24
+android.ndk = 28c
+android.ndk_api = 24
 # Ingin build lebih cepat? Cukup arm64-v8a (hampir semua HP modern).
 android.archs = arm64-v8a, armeabi-v7a
 android.accept_sdk_license = True
